@@ -1,17 +1,15 @@
-# Hello world, I'm Abdullah Çetin 👋
+<h1 align="center">Hi 👋, I'm Abdullah ÇETİN</h1>
+<h3 align="center">A person who starts as a beginner and becomes a programmer.</h3>
 
-![Yazılım Resmi](https://www.pexels.com/photo/code-on-computer-screen-1181674/)  
-Ben yeni yazılım öğrenmeye başlayan bir yazılım geliştiricisiyim. Python, Java ve Rust gibi dillerde projeler geliştirmeyi öğreniyorum.
+- 🌱 I’m currently learning **Java and Rust**
 
-## 🛠️ Kullandığım Programlar
+- 💬 Ask me about **Java, Rust, Python**
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg)  ![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)
+- 📫 How to reach me **abdullahcetinpgs@gmail.com**
 
-## 🌍 Konum
-İstanbul, Türkiye
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 📍 İletişim Bilgileri
-Herhangi bir iletişim bilgisi paylaşılmamaktadır.
-
-## 💬 Daha Fazla Bilgi
-Benimle bağlantıya geçmek veya projelerim hakkında daha fazla bilgi almak isterseniz, GitHub profilimi takip edebilirsiniz.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
